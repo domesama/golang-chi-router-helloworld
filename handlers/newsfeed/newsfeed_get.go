@@ -1,0 +1,5 @@
+package newsfeed
+
+func GetNewsFeed(){
+
+}
